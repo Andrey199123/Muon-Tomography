@@ -78,8 +78,7 @@ From the `build` directory:
    - Optionally filters high-/low-energy muons and can build a Delaunay/alpha-shape mesh to approximate container boundaries.
 
 3. **Adjust thresholds**:
-   - Change energy thresholds for filtering in the script.  
-   - Modify alpha values for PyVista’s `delaunay_3d(alpha=...)` if creating a surface mesh.
+   - Change energy thresholds for filtering in the script. 
 
 ---
 ## Contributors
